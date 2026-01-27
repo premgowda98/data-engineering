@@ -214,3 +214,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+spark-local/data/*
+spark-local/notebooks/metastore_db/*
