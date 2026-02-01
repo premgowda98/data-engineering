@@ -1,0 +1,4 @@
+fastavro
+kafka-python
+python-dotenv
+avro
